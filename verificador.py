@@ -42,7 +42,3 @@ else:
                 print("SI")
             else:
                 print("NO")
-
-    
-
-
