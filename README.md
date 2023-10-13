@@ -2,7 +2,7 @@
 
 La función de este verificador es detectar si dos ficheros son completamente iguales a diferencia de que uno tiene una línea adicional en la que aparecen un número hexadecimal de ocho dígitos, otro de dos dígitos y el número 100 separado por tabuladores.
 
-Pasos a seguir para usar el verificador:
+**Pasos a seguir para usar el verificador:**
 
 1. Descarga el fichero llamado "verificador.py", ya sea manualmente desde el repositorio en github, ya sea clonando el repositorio en tu máquina local.
 2. Asegurate de tener python instalado en tu máquina. Si no tienes python, puedes descargarlo desde [aquí](https://www.python.org/downloads/). Otra opción es ejecutar el código en [Google Colab](https://colab.google).
