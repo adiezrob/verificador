@@ -8,6 +8,6 @@ La función de este verificador es detectar si dos ficheros son completamente ig
 2. Asegurate de tener python instalado en tu máquina. Si no tienes python, puedes descargarlo desde [aquí](https://www.python.org/downloads/). Otra opción es ejecutar el código en [Google Colab](https://colab.google).
 3. En la terminal, ejecuta el script (ej. *python verificador.py*). Si se está usando Google Colab, simplemente haz click en el boton de ejecutar.
 4. Escribe las direcciones en tu máquina de los ficheros que quieres verificar.
-5. Si el programa devuelve "SI", querrá decir que los dos ficheros que le has dado sí cumplen la propiedad explicada arriba.
+5. Si el programa devuelve "SI", querrá decir que los dos ficheros que le has dado sí cumplen la propiedad explicada arriba. Si el programa devuelve "NO", querrá decir que los dos ficheros no cumplen esa misma propiedad.
 
 En el directorio [ejemplo](ejemplo) del repositorio hay dos ficheros que cumplen esta propiedad que se pueden usar para probar el verificador.
