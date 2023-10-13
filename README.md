@@ -1,6 +1,6 @@
 # verificador
 
-La función de este verificador es detectar si dos ficheros son completamente iguales a diferencia de que uno tiene una línea adicional en la que aparecen un número hexadecimal de ocho dígitos, otro de dos dígitos y el número 100 separado por tabuladores.
+La función de este verificador es detectar si dos ficheros son completamente iguales a diferencia de que uno tiene una línea adicional en la que aparecen un número hexadecimal de ocho dígitos, un número hexadecimal de dos dígitos y el número 100 separados por tabuladores.
 
 **Pasos a seguir para usar el verificador:**
 
