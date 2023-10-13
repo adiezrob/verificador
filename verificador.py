@@ -38,7 +38,7 @@ else:
                     print("NO")
                     break
 
-            if same and hash(filename1)[0] == "0" and re.search("[0-9a-z]{8}\tb4\t100", f1.readline()):
+            if same and hash(filename1)[0] == "0" and re.search("[0-9a-z]{8}\t[0-9a-z]{2}\t100", f1.readline()):
                 print("SI")
             else:
                 print("NO")
