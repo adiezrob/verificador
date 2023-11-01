@@ -33,7 +33,7 @@ else:
         with open(filename2, "r") as f2:
             for ind,line2 in enumerate(f2):
                 af = f1.readline()
-                if line2 != af:
+                if line2 != af  and af != line2+"\n":
                     same = False
                     print("NO")
                     break
